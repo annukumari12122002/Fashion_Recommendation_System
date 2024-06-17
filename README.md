@@ -25,3 +25,7 @@ Run the app using the following command:
 streamlit run app.py
 
 ````
+
+4 . Conclusion 
+
+We proposed a novel fashion recommendation framework leveraging VGG19, consisting of two stages: feature extraction using the VGG19 CNN classifier and generating similar fashion product images based on the input image. This approach enhances recommendation accuracy and improves the fashion exploration experience for users by allowing them to upload any fashion image.
