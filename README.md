@@ -11,9 +11,17 @@ conda create -n frs python=3.7.6
 conda activate frs
 
 ````
-## Installation of Packages 
+2.  **Installation of Packages** 
 
 ````
 pip install -r requirements.txt
+
+````
+
+3. Usage
+Run the app using the following command:
+
+````
+streamlit run app.py
 
 ````
